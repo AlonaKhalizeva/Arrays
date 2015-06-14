@@ -5,10 +5,9 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-    public class ArraysHt {
+	public class ArraysHt {
 
-            public static void main (String[] args) {
-
+	public static void main (String[] args) {
             System.out.println("1.1 Первый метод инвертирования массива");
             int[] array1 = {1,2,3,4,5,6};
             ArraysHt.invertionV1(array1);
